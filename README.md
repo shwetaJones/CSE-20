@@ -1,1 +1,1 @@
-This folder contains programming assignments from CSE 20 at UCSC. 
+Beginning Programming in Python taught by Larissa A Munishkina at UCSC
