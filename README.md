@@ -1,1 +1,5 @@
-Beginning Programming in Python taught by Professor Larissa A. Munishkina at UCSC
+Beginning Programming in Python 
+
+University: University of California, Santa Cruz
+
+Professor: Professor Larissa A. Munishkina
