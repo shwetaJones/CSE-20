@@ -21,6 +21,7 @@ Assignment 3: Calculator
 Assignment 4: Hangman
 
     "hangman.py": Mimics the game Hangman
+    "dictionary.txt": File containing all the words the game can use
     
     
 Assignment 5: TicTacToe
